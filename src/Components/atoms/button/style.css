@@ -1,0 +1,12 @@
+.btn {
+    display: inline-block;
+    border-style: none;
+    text-align: center;
+}
+
+.primary {
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    background-color: #007bff;
+    border-color: #007bff;
+}

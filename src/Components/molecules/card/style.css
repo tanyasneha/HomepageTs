@@ -1,0 +1,21 @@
+.cardContainer {
+    position: relative;
+    text-align: center;
+  }
+
+  .bottom-center {
+    display:flex;
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    color:white;
+    justify-content:center;
+  }
+
+  .cardText{
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+    z-index: 1;
+    font-family: "Roboto-Medium", sans-serif;
+  }

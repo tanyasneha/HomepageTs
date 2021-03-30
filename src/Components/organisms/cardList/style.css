@@ -1,0 +1,16 @@
+.cardList{
+    display: flex;
+    align-items: center;
+    overflow:auto;
+    max-width: 95%;
+    margin:70px;
+}
+
+.cardList > div {
+    margin-right: 10px;
+    padding: 10px;
+  }
+
+  ::-webkit-scrollbar{
+      width:10px;
+  }

@@ -1,0 +1,55 @@
+.carousel-text {
+    padding: 46px 20px 0px 56px;
+    text-align: left;
+}
+
+.padding-top-14 {
+    padding-top: 14px;
+}
+
+.margin-tb-18 {
+    margin: 18px 0;
+}
+
+.play-button {
+    display: flex;
+    align-items: center;
+    padding-top: 14px;
+}
+
+.carousel-heading {
+    font-family: "Roboto-Bold", sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.carousel-subheading {
+    font-size: 18px;
+    color: #9ba1a9;
+    line-height: 1.33;
+}
+
+.carousel-tags {
+    font-size: 12px;
+    color: #9ba1a9;
+    border-radius: 2px;
+    padding: 5px 8px;
+    margin-right: 8px;
+    font-family: "Roboto-Regular", sans-serif;
+    background: rgb(40, 46, 61);
+}
+
+.carousel-play {
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+    padding-left: 12px;
+}
+
+.category-text {
+    font-size: 20px;
+    font-weight: 600;
+    color: #ffffff;
+    font-family: "Roboto-Medium", sans-serif;
+}
